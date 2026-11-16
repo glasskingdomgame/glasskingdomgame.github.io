@@ -1,0 +1,1 @@
+# Glass Kingdom authorized ad sellers (IAB app-ads.txt). Lines from AppLovin MAX and its networks are added once the accounts are approved.
